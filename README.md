@@ -1,63 +1,91 @@
- [![Languages](https://img.shields.io/github/languages/count/Brightz)]()
-[![Last Commit](https://img.shields.io/github/last-commit/Brightz)]()
-[![Profile Views](https://komarev.com/ghpvc/?username=Brightz&color=blue)]()
+BRIGHTZ-SEC
 
-## 👋 About Me
-I analyze how systems behave under real conditions. My work focuses on understanding failures, edge-case behavior, and building tools that make security testing more precise and efficient.
+  
 
-## 🧭 Focus Areas
-- 🔐 Web security fundamentals
-- 🌐 Protocol behavior & edge cases
-- ⚙️ Tooling for analysis & testing automation
-- 📊 Documentation & reproducible experiments
+👋 About Me
 
-## 🛠️ Current Projects
-- Small utilities for workflow improvement
-- Experiments exploring unexpected server behavior
-- Notes on testing methodology & analysis patterns
+I analyze real-world system behavior with a focus on security. My work revolves around protocol analysis, network behavior, and practical tooling for testing and research.
 
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightz&show_icons=true&hide_border=true&theme=default)
+🔗 Socials
 
-## 📂 Repositories
-- 🧪 Experimental tools
-- 🧰 Practical utilities
-- 📚 Learning notes & analyses
+ 
 
-Check the pinned repositories for the most relevant work.
+🧭 Focus Areas
 
-## 🗺️ Roadmap
-- Strengthen protocol-level analysis
-- Build a stable set of testing utilities
-- Improve documentation depth & clarity
-- Expand reproducible experiment logs
+🔐 Web & application security
 
-## 🧱 Architecture (General Pattern)
-```
+🌐 HTTP/HTTPS behavior & edge cases
+
+🛜 Network analysis & request manipulation
+
+⚙️ Security tooling & automation
+
+📊 Reproducible experiments & documentation
+
+
+🛠️ Tech Stack (Cyber Security)
+
+       
+
+📈 Stats
+
+
+
+
+
+
+
+📂 Repositories
+
+🧪 Security experiments
+
+🧰 Tools for testing & automation
+
+📝 Notes on behavior, findings, and methodology
+
+
+Check pinned repositories for curated work.
+
+🗺️ Roadmap
+
+Deeper protocol-level analysis
+
+Build reliable testing utilities
+
+Expand traffic-analysis tooling
+
+Document reproducible behavioral tests
+
+
+🧱 Repo Structure (General)
+
 ├── tools/
-│   ├── http-tests/
-│   ├── parser-utils/
+│   ├── recon/
+│   ├── traffic-analysis/
 │   └── automation/
 ├── experiments/
-│   ├── protocol-behavior/
-│   ├── edge-cases/
-│   └── replay-tests/
+│   ├── http-behavior/
+│   ├── protocol-anomalies/
+│   └── response-patterns/
 └── notes/
     ├── findings.md
     ├── methodology.md
-    └── behavior-logs.md
-```
+    └── logs.md
 
-## 🎯 Principles
-- Keep tools minimal and purposeful
-- Prioritize clarity, reproducibility, and measured results
-- Publish only when something provides real value
+🎯 Principles
 
-## 🛡️ Skills
-![Skills](https://img.shields.io/badge/Web_Security-Expertise-blue)
-![Skills](https://img.shields.io/badge/Networking-Analysis-green)
-![Skills](https://img.shields.io/badge/Automation-Tools-yellow)
-![Skills](https://img.shields.io/badge/Documentation-Clear-lightgrey)
+Minimal, functional tooling
 
-## ✉️ Contact
+Reproducible testing and clear results
+
+Precision over hype
+
+
+✉️ Contact
+
+🌐 Instagram: brightz_real
+
+💬 Telegram: BRIGHTZSEC
+
+
 Open an issue or discussion if you want to talk about testing approaches, tooling ideas, or implementation details.
