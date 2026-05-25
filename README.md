@@ -1,5 +1,5 @@
-[![Languages](https://img.shields.io/github/languages/count/Brightz)]()
-[![Last Commit](https://img.shields.io/github/last-commit/Brightz)]()
+[![Languages](https://img.shields.io/github/languages/count/BRIGHTZ-SEC]()
+[![Last Commit](https://img.shields.io/github/last-commit/BRIGHTZ-SEC)]()
 [![Profile Views](https://komarev.com/ghpvc/?username=Brightz&color=blue)]()
 
 ## 👋 About Me
