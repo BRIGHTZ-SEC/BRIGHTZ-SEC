@@ -1,63 +1,97 @@
-[![Languages](https://img.shields.io/github/languages/count/BRIGHTZ-SEC]()
-[![Last Commit](https://img.shields.io/github/last-commit/BRIGHTZ-SEC)]()
-[![Profile Views](https://komarev.com/ghpvc/?username=Brightz&color=blue)]()
+# 👋 Hi, I'm Bima Ramadhan Kartika
 
-## 👋 About Me
-I analyze how systems behave under real conditions. My work focuses on understanding failures, edge-case behavior, and building tools that make security testing more precise and efficient.
+Also known as **BRIGHTZ-SEC**.
+
+I am a vocational high school student majoring in **Software Engineering (Rekayasa Perangkat Lunak / RPL)**. I have a strong interest in computers, programming, and exploring how systems work, especially in the field of **CyberSecurity**.
+
+I enjoy learning by experimenting, analyzing problems, building small tools, and understanding how technology behaves in real conditions.
+
+---
+
+## 📊 GitHub Overview
+
+![Languages](https://img.shields.io/github/languages/count/BRIGHTZ-SEC/BRIGHTZ-SEC?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/BRIGHTZ-SEC/BRIGHTZ-SEC?style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=BRIGHTZ-SEC&color=blue&style=flat-square)
+
+---
+
+## 🧑‍💻 About Me
+
+- Name: **Bima Ramadhan Kartika**
+- Alias: **BRIGHTZ-SEC**
+- Student of **Software Engineering / RPL**
+- Interested in **CyberSecurity**, programming, and computer systems
+- Like to explore, test, and understand how things work
+- Currently learning and improving through small projects and experiments
+
+---
 
 ## 🧭 Focus Areas
-- 🔐 Web security fundamentals
-- 🌐 Protocol behavior & edge cases
-- ⚙️ Tooling for analysis & testing automation
-- 📊 Documentation & reproducible experiments
+
+- 🔐 Web Security Fundamentals
+- 🌐 Networking & Protocol Behavior
+- ⚙️ Programming & Automation
+- 🧪 Security Testing Methodology
+- 📚 Documentation & Learning Notes
+- 🛠️ Building Small Tools for Experiments
+
+---
 
 ## 🛠️ Current Projects
-- Small utilities for workflow improvement
-- Experiments exploring unexpected server behavior
-- Notes on testing methodology & analysis patterns
 
-## 📈 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brightz&show_icons=true&hide_border=true&theme=default)
+- Small utilities for learning and workflow improvement
+- Experiments related to web behavior and server responses
+- Notes about cybersecurity learning and testing methodology
+- Personal projects for improving programming logic and problem solving
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRIGHTZ-SEC&show_icons=true&hide_border=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRIGHTZ-SEC&layout=compact&hide_border=true&theme=default)
+
+---
 
 ## 📂 Repositories
-- 🧪 Experimental tools
-- 🧰 Practical utilities
-- 📚 Learning notes & analyses
 
-Check the pinned repositories for the most relevant work.
+My repositories usually contain:
+
+- 🧪 Experimental projects
+- 🧰 Practical utilities
+- 📚 Learning notes
+- 🔐 CyberSecurity practice materials
+- 💻 Software engineering exercises
+
+Check my pinned repositories for the most relevant work.
+
+---
 
 ## 🗺️ Roadmap
-- Strengthen protocol-level analysis
-- Build a stable set of testing utilities
-- Improve documentation depth & clarity
-- Expand reproducible experiment logs
 
-## 🧱 Architecture (General Pattern)
-```
+- Improve programming fundamentals
+- Learn deeper web security concepts
+- Build more useful and stable tools
+- Write better documentation for each project
+- Explore networking, protocols, and server behavior
+- Create reproducible experiment logs
+
+---
+
+## 🧱 General Project Structure
+
+```txt
 ├── tools/
-│   ├── http-tests/
+│   ├── web-tests/
 │   ├── parser-utils/
 │   └── automation/
 ├── experiments/
 │   ├── protocol-behavior/
 │   ├── edge-cases/
-│   └── replay-tests/
+│   └── server-response-tests/
 └── notes/
     ├── findings.md
     ├── methodology.md
-    └── behavior-logs.md
-```
-
-## 🎯 Principles
-- Keep tools minimal and purposeful
-- Prioritize clarity, reproducibility, and measured results
-- Publish only when something provides real value
-
-## 🛡️ Skills
-![Skills](https://img.shields.io/badge/Web_Security-Expertise-blue)
-![Skills](https://img.shields.io/badge/Networking-Analysis-green)
-![Skills](https://img.shields.io/badge/Automation-Tools-yellow)
-![Skills](https://img.shields.io/badge/Documentation-Clear-lightgrey)
-
-## ✉️ Contact
-Open an issue or discussion if you want to talk about testing approaches, tooling ideas, or implementation details.
+    └── learning-logs.md
