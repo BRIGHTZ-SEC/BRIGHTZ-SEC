@@ -16,7 +16,7 @@ Software Engineering student focused on **malware analysis, reverse engineering,
 
 ## About
 
-I'm a vocational high school student at **SMKS KRIAN 1**, majoring in **Software Engineering (RPL)**.
+I'm a BRIGHTZEE)**.
 
 My interest is in the gap between *how code looks* and *how it actually behaves*. I like taking things apart — decompiling an APK, tracing where a string came from, working out why an obfuscator did it that way, then automating the process so the next sample takes minutes instead of hours.
 
